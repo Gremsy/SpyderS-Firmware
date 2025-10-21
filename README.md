@@ -6,7 +6,7 @@ Firmware for Tinyhawk QS Payload
 - Lock mode
 - Mapping mode
 
-## reference frame
+## Reference frame
 - Image frame. Keeping LoS in lock mode
 
 ## Control gimbal
@@ -15,7 +15,7 @@ Firmware for Tinyhawk QS Payload
 - Support speed of movement 180 deg/s
   
 ## Adapting to decrease Pan's drift behavior
-- basic process for adapting: switch to lock mode --> waiting 30s --> return home
+- Basic process for adapting: switch to lock mode --> waiting 30s --> return home
 
 ## Go to home position automatically when switching to follow mode 
 
