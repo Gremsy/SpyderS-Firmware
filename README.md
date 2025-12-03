@@ -1,5 +1,5 @@
-# Tinyhawk-QS-Firmware
-Firmware for Tinyhawk QS Payload
+# SpyderS-Firmware
+Firmware for SpyderS Payload
 
 ## Gimbal working mode
 - Follow mode
@@ -8,7 +8,7 @@ Firmware for Tinyhawk QS Payload
 
 ## Reference frame
 - Image frame. Keeping LoS in lock mode
-
+  
 ## Control gimbal
 - Speed control in follow mode
 - Speed control in lock mode
